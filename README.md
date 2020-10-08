@@ -56,3 +56,6 @@ top. Google a lot!
 
 If you have questions that you weren't able to answer using internet
 research, reach out to your instructor or the author of the template.
+
+Note that you have to build the paper twice in order for the table of
+contents to update.
