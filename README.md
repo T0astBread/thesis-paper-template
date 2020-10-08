@@ -59,3 +59,9 @@ research, reach out to your instructor or the author of the template.
 
 Note that you have to build the paper twice in order for the table of
 contents to update.
+
+## Links
+If you're reading this from somewhere else: The Git repository for
+this template is hosted at https://github.com/T0astBread/thesis-paper-template.
+
+An application of this template can be found at https://github.com/T0astBread/thesis.
