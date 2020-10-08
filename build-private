@@ -1,0 +1,2 @@
+#!/bin/sh
+xelatex -synctex=1 -interaction=nonstopmode "\def\ThPrivateBuild{1} \input{thesis-paper.tex}"
