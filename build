@@ -1,2 +1,4 @@
 #!/bin/sh
 xelatex -synctex=1 -interaction=nonstopmode thesis-paper.tex
+biber thesis-paper
+xelatex -synctex=1 -interaction=nonstopmode thesis-paper.tex

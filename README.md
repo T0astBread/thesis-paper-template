@@ -58,7 +58,7 @@ If you have questions that you weren't able to answer using internet
 research, reach out to your instructor or the author of the template.
 
 Note that you have to build the paper twice in order for the table of
-contents to update.
+contents to update unless you use the `build` script.
 
 ## Links
 If you're reading this from somewhere else: The Git repository for
