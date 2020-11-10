@@ -1,0 +1,13 @@
+#!/bin/sh
+rm *.aux
+rm *.log
+rm *.synctex.gz
+rm *.bbl
+rm *.bcf
+rm *.lof
+rm *.blg
+rm *.out
+rm *.toc
+rm *.run.xml
+rm thesis-paper.pdf
+rm private.pdf
